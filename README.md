@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis 📊
+# Telecome Customer Churn Analysis 📊
 
 This notebook explores the relationship between customer churn and various service-related features such as `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, and more.
 
@@ -17,6 +17,7 @@ We created grouped countplots (using Seaborn) to visualize churn behavior across
 These insights help identify the customer segments most at risk of churning, aiding in better retention strategies.
 
 ## 📁 Files
+- `Customer Churn.csv`: Source dataset from which find the actual data.
 - `EDA.ipynb`: Jupyter Notebook with data visualization code.
 
 ## 🔧 Tools Used
