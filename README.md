@@ -18,7 +18,6 @@ These insights help identify the customer segments most at risk of churning, aid
 
 ## 📁 Files
 - `Untitled6.ipynb`: Jupyter Notebook with data visualization code.
-- `Screenshot.png`: Visualization of countplots for different services.
 
 ## 🔧 Tools Used
 - Python 🐍
