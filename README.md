@@ -17,7 +17,7 @@ We created grouped countplots (using Seaborn) to visualize churn behavior across
 These insights help identify the customer segments most at risk of churning, aiding in better retention strategies.
 
 ## 📁 Files
-- `Untitled6.ipynb`: Jupyter Notebook with data visualization code.
+- `EDA.ipynb`: Jupyter Notebook with data visualization code.
 
 ## 🔧 Tools Used
 - Python 🐍
